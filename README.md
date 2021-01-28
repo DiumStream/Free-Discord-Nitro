@@ -3,5 +3,5 @@ With the help of this plugin you'll be able to share your screen at 60fps 1080P 
 <br>
 # Installation 
 Watch the [Youtube Tutorial](https://www.youtube.com/watch?v=CUWsZWQeW20&t=4s) to Install the Plugin.
-[![Watch the video](https://imgur.com/a/9hweg8X)](https://www.youtube.com/watch?v=CUWsZWQeW20&t=4s)
+[![Watch the video](https://imgur.com/a/9hweg8X)](https://www.youtube.com/watch?v=CUWsZWQeW20&t=4s)<img src="https://imgur.com/a/9hweg8X" width="500">
 <br>
